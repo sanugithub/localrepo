@@ -1,0 +1,1 @@
+git init->initializes git repo i.e., making local repo a git repo
