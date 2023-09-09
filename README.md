@@ -23,3 +23,5 @@ git branch -d (branch name)-> to delete branch
 git diff (branch name)->to compare commits, branches & files
 <br>
 git merge (branch name)-> to merge 2 branches
+<br>
+q-> to exit from git diff command when we stuck in loop
