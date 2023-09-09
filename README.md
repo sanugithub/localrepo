@@ -18,3 +18,8 @@ git checkout -b (new branch name)-> to create new branch
 git checkout (branch name)-> moving from one branch to another
 <br>
 git branch -d (branch name)-> to delete branch
+
+<!---------- merging code  --------------->
+git diff (branch name)->to compare commits, branches & files
+<br>
+git merge (branch name)-> to merge 2 branches
