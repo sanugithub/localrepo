@@ -25,3 +25,5 @@ git diff (branch name)->to compare commits, branches & files
 git merge (branch name)-> to merge 2 branches
 <br>
 q-> to exit from git diff command when we stuck in loop
+<br>
+git pull origin main-> pull the changes from github repo main branch & update to local repo main branch
