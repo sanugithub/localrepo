@@ -43,3 +43,5 @@ git reset (commit sha hash)-> return to specific unstaged changes after multiple
 git reset --hard (commit sha hash)->returns to specific unstaged changes & removes those unstaged changes
 
 <b>NOTE:-</b>reset means revert back to just before the add state i.e. doesn't remove the unstaged changes
+<br><br>
+Fork--> A fork is copying other github account repo to our account repo. Its just a rough copy.
