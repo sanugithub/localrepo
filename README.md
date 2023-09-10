@@ -27,3 +27,8 @@ git merge (branch name)-> to merge 2 branches
 q-> to exit from git diff command when we stuck in loop
 <br>
 git pull origin main-> pull the changes from github repo main branch & update to local repo main branch
+
+<!---------- undoing changes  --------------->
+Case 1:staged changes
+\n
+git reset
