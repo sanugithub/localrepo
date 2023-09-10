@@ -29,5 +29,6 @@ q-> to exit from git diff command when we stuck in loop
 git pull origin main-> pull the changes from github repo main branch & update to local repo main branch
 
 <!---------- undoing changes  --------------->
-Case 1:staged changes<br>
+Case 1: staged changes<br>
+git reset (file name)<br>
 git reset
