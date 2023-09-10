@@ -37,4 +37,6 @@ git reset-> same applies but for all files
 Case 2: commited changes(one commit)<br>
 git reset HEAD~1->return to unstaged changes after 1 commit(i.e. return to previous commit state by 1 step)
 
+Case 3:
+
 <b>NOTE:-</b>reset means revert back to just before the add state i.e. doesn't remove the unstaged changes
