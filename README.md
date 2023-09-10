@@ -30,5 +30,9 @@ git pull origin main-> pull the changes from github repo main branch & update to
 
 <!---------- undoing changes  --------------->
 Case 1: staged changes<br>
-git reset (file name)<br>
-git reset
+git reset (file name)->return to unstaged changes for single after git add
+<br>
+git reset- same for all
+
+Case 2: commited changes(one commit)<br>
+git reset HEAD~1->return to unstaged changes after 1 commit
