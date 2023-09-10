@@ -35,4 +35,4 @@ git reset (file name)->return to unstaged changes for single file after git add
 git reset-> same applies but for all files
 
 Case 2: commited changes(one commit)<br>
-git reset HEAD~1->return to unstaged changes after 1 commit
+git reset HEAD~1->return to unstaged changes after 1 commit(i.e. return to previous commit state by 1 step)
