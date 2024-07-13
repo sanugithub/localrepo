@@ -12,6 +12,11 @@ git push -u origin main-> set this into short form for remote branch i.e., no ne
 <br>
 git push-> push to the github main repo
 
+<!-- allow large files and push -->
+a. git lfs install
+b. git lfs track "*.jar"
+c. git lfs migrate import --include="*.jar"
+
 <!---------- branch commands --------------->
 git checkout -b (new branch name)-> to create new branch
 <br>
