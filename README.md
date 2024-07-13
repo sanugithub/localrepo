@@ -5,10 +5,6 @@ git remote add origin (link)-> adding github main repo
 <br>
 git remote -v-> to verify remote
 <br>
-git branch-> to check branch
-<br>
-git branch -M main-> to rename master branch(local)
-<br>
 git add (file name/.)-> add files to staging area
 <br>
 git commit -m 'comment any update message'-> saves the staged changes to repo
@@ -28,6 +24,10 @@ c. git lfs migrate import --include="*.jar"
 git checkout -b (new branch name)-> to create new branch
 <br>
 git checkout (branch name)-> moving from one branch to another
+<br>
+git branch-> to check branch
+<br>
+git branch -M main-> to rename master branch(local)
 <br>
 git branch -d (branch name)-> to delete branch
 
